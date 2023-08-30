@@ -2,6 +2,11 @@
 
 ### Author: Hamza Mohammed
 
+<p align="center">
+  <img src="human_ai_fusion.jpg" alt="Image" width="50%">
+</p>
+
+
 
 ## Synopsis
 
