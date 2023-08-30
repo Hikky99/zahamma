@@ -5,7 +5,7 @@
 
 ## Synopsis
 
-Heart diseases are a leading cause of mortality in Ghana and around the world. This project focuses on developing machine learning models for early detection of heart diseases. By utilizing patient data, including medical history, lifestyle information, and laboratory test results, these models can identify individuals at high risk for heart disease, enabling early intervention.
+Heart diseases are a leading cause of mortality in Ghana and around the world. This project focuses on developing machine learning models for early detection of heart diseases. By utilizing patient data, including medical history, lifestyle information, and laboratory test results, this model can identify individuals at high risk for heart disease, enabling early intervention.
 
 ## Aim
 
